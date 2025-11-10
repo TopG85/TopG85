@@ -1,5 +1,4 @@
-Hi Daniel I'm a junior software developer. Recently finished  studying Full Stack Development for the AI Augmented Developer with the Code Institute actively pursuing a career in the tech industry. I am learning a range of methodologies, including coding languages such as HTML, CSS, JavaScript, and Python.
-
+Hi Daniel I'm a junior software developer. Recently finished  studying Full Stack Development for the AI Augmented Developer with the Code Institute actively pursuing a career in the tech industry. I am learning a range of methodologies, including coding languages such as Frontend. HTML, CSS, JavaScript. Backend. Python and Django.
 <!--
 **TopG85/TopG85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
