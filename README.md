@@ -8,9 +8,12 @@ Python and Django.
 
 I'm currently working on.
 
-vinelifewilmslow
-
-Redesigning my friends website.
+vinelifewilmslow, is a redesign my friends website, after
+are first project on HTML and CSS friend asked if I
+could make some improvements. I've used HTML and CSS and Bootstrap 
+it's a single website page with sections, in the future 
+I will add Pyrhon and Django to add CRUD functionality so
+my friend will be able to edit the content of his website.
 <!--
 **TopG85/TopG85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
