@@ -8,7 +8,7 @@ Python and Django.
 
 I'm currently working on.
 
-vinelifewilmslow, is a redesign my friends website, after
+vinelifewilmslow, is a redesign of my friends website, after
 are first project on HTML and CSS friend asked if I
 could make some improvements. I've used HTML and CSS and Bootstrap 
 it's a single website page with sections, in the future 
