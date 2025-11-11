@@ -13,7 +13,10 @@ are first project with Code Institute, SAFEGUARDING MATTERS on HTML and CSS. My 
 could make some improvements. I've used HTML, CSS with Bootstrap 
 it's a single page website with sections, in the future 
 I will add Python and Django to add CRUD functionality so
-my friend will be able to edit the content of his website.
+my friend will be able to update and edit the content of his website. 
+He has an events section and it changes every month 
+so to have the option to change this would be a cool feature. I will
+also add python and Django in such a way so he doesn't have to learn coding.
 <!--
 **TopG85/TopG85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
