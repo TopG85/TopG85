@@ -1,4 +1,4 @@
-I'm a junior software developer. Recently finished  studying Full Stack Development for the AI Augmented Developer with the Code Institute actively pursuing a career in the tech industry. I am learning a range of methodologies, including coding languages such as 
+hi I'm a junior software developer. Recently finished  studying Full Stack Development for the AI Augmented Developer with the Code Institute actively pursuing a career in the tech industry. I am learning a range of methodologies, including coding languages such as 
 ## Frontend
 HTML, CSS, JavaScript. 
 ## Backend
@@ -9,7 +9,7 @@ Python and Django.
 I'm currently working on.
 
 vinelifewilmslow, is a redesign of my friends website, after
-are first project with Code Institute, SAFEGUARDING MATTERS on HTML and CSS. My friend asked if I
+are first project with the Code Institute, SAFEGUARDING MATTERS on HTML and CSS. My friend asked if I
 could make some improvements. I've used HTML, CSS with Bootstrap 
 it's a single page website with sections, in the future 
 I will add Python and Django to add CRUD functionality so
