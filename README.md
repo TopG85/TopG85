@@ -9,8 +9,9 @@ Python and Django.
 I'm currently working on.
 
 vinelifewilmslow, is a redesign of my friends website, after
-are first project with the Code Institute, SAFEGUARDING MATTERS on HTML and CSS. My friend asked if I
-could make some improvements. It started out using HTML, CSS with Bootstrap 
+are first project with the Code Institute, SAFEGUARDING MATTERS on HTML and CSS. My friend mentioned I
+could improve his website which has been a great way to learn and practice coding, I've only been doing
+it 4 months. It started out using HTML, CSS with Bootstrap 
 it's a single page website with sections, in the future 
 I will add Python and Django to add CRUD functionality so
 my friend will be able to update and edit the content of his website. 
