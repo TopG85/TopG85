@@ -10,7 +10,7 @@ I'm currently working on.
 
 vinelifewilmslow, is a redesign of my friends website, after
 are first project with the Code Institute, SAFEGUARDING MATTERS on HTML and CSS. My friend asked if I
-could make some improvements. I've used HTML, CSS with Bootstrap 
+could make some improvements. It started out using HTML, CSS with Bootstrap 
 it's a single page website with sections, in the future 
 I will add Python and Django to add CRUD functionality so
 my friend will be able to update and edit the content of his website. 
