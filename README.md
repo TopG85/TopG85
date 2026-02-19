@@ -12,7 +12,7 @@ I'm currently working on.
 
 A modern, responsive church website for Vinelife Wilmslow - a community church in the heart of Wilmslow, Cheshire, UK.
 
-<img width="1800" height="1062" alt="Vinelife Wilmslow Website Screenshot" src="https://github.com/Screenshot 2026-02-19 at 12.57.29 (2) alias" />
+<img width="1800" height="1062" alt="Vinelife Wilmslow Website Screenshot" src="https://github.com/vinelifewilmslow" />
 
 ## 🌟 Features
 
