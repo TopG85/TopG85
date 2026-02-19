@@ -1,5 +1,5 @@
 Hello!! 👋🏻
-I'm a junior software developer. Recently finished  studying Full Stack Development for the AI Augmented Developer with the Code Institute actively pursuing a career in the tech industry. I am learning a range of methodologies, including coding languages such as 
+I'm a junior software developer. October 2025 I finished Full Stack Development for the AI Augmented Developer course with the Code Institute and recently got a pass grade. I'm actively pursuing a career in the tech industry. I am learning a range of methodologies, including coding languages such as 
 ## Frontend
 HTML, CSS and Tailwind, JavaScript. 
 ## Backend
