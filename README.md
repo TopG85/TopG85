@@ -12,7 +12,7 @@ I'm currently working on.
 
 A modern, responsive church website for Vinelife Wilmslow - a community church in the heart of Wilmslow, Cheshire, UK.
 
-![Vinelife Wilmslow Logo](assets/vinelifewilmslow.png)
+vinelifewilmslow.png)
 
 ## 🌟 Features
 
