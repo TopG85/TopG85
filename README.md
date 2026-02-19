@@ -20,6 +20,23 @@ He has an events section and it changes every month
 so to have the option to change this would be a cool feature. I will
 also add python and Django in such a way so he doesn't have to learn coding
 this will improve the user experience.
+
+## 📋 Recent Updates
+
+### February 19, 2026 - Google Calendar Integration & API Security Complete ✅
+- ✅ **Google Calendar API Integration** - Successfully integrated Google Calendar API for dynamic event loading
+- ✅ **Sunday Events Filtering** - Implemented smart filtering to show only worship/service events (by event name)
+- ✅ **Current Month Display** - Added automatic filtering to show only events from the current month
+- ✅ **Timezone Issue Resolution** - Fixed Eastern Time (GMT-5) vs UK time timezone conflicts
+- ✅ **Single Event Centering** - Events are now centered when there's only one event in the month
+- ✅ **Event Name Recognition** - Automatically identifies worship events by keywords (worship, service, meeting, sunday)
+- ✅ **Auto-Monthly Updates** - Website automatically shows new month's events when month changes
+- ✅ **10:30am Display** - All events consistently show 10:30am regardless of timezone storage issues
+- ✅ **API Error Handling** - Added comprehensive error handling and debugging for calendar API
+- ✅ **Console Debugging** - Implemented detailed logging for troubleshooting calendar integration
+- ✅ **API Security Configuration** - Finalized secure API key setup with appropriate restrictions for public calendar access
+- ✅ **GitHub Security Response** - Properly addressed GitHub/Google security alerts with optimal configuration
+- ✅ **Production Deployment** - Website fully functional on GitHub Pages with working calendar integrati
 <!--
 **TopG85/TopG85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
