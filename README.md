@@ -1,14 +1,14 @@
 hi I'm a junior software developer. Recently finished  studying Full Stack Development for the AI Augmented Developer with the Code Institute actively pursuing a career in the tech industry. I am learning a range of methodologies, including coding languages such as 
 ## Frontend
-HTML, CSS Bootstrap and Tailwind, JavaScript. 
+HTML, CSS and Tailwind, JavaScript. 
 ## Backend
 Python and Django.
 
-# Project 
+## Project 
 
 I'm currently working on.
 
-# Vinelife Wilmslow
+## Vinelife Wilmslow
 
 A modern, responsive church website for Vinelife Wilmslow - a community church in the heart of Wilmslow, Cheshire, UK.
 
