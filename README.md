@@ -10,8 +10,8 @@ I'm currently working on.
 
 vinelifewilmslow, is a redesign of my friends website, after
 are first project with the Code Institute, SAFEGUARDING MATTERS on HTML and CSS. My friend mentioned I
-could improve his website which has been a great way to learn and practice coding, I've only been doing
-it 4 months. 
+could improve his website which has been a great way to learn and practice coding, I've only been coding
+for 7 months. 
 It started out using HTML, CSS with Bootstrap 
 it's a single page website with sections, in the future 
 I will add Python and Django to add CRUD functionality so
@@ -36,7 +36,30 @@ this will improve the user experience.
 - ✅ **Console Debugging** - Implemented detailed logging for troubleshooting calendar integration
 - ✅ **API Security Configuration** - Finalized secure API key setup with appropriate restrictions for public calendar access
 - ✅ **GitHub Security Response** - Properly addressed GitHub/Google security alerts with optimal configuration
-- ✅ **Production Deployment** - Website fully functional on GitHub Pages with working calendar integrati
+- ✅ **Production Deployment** - Website fully functional on GitHub Pages with working calendar integration
+
+### February 16, 2026
+- ✅ **Tailwind CSS Migration** - Migrated from Bootstrap to Tailwind CSS v3.4.19 for better customization and performance
+- ✅ **Social Media Icon Styling** - Updated hero and footer social media icons with consistent white color and champagne hover effects
+- ✅ **Button Hover States** - Unified all button hover colors to champagne (#f7e7b4) for consistent branding across the site
+- ✅ **Social Icon Spacing** - Implemented separate styling for hero and footer social icons with optimized spacing
+- ✅ **CSS Optimization** - Added custom negative margins and gap utilities for precise icon positioning
+- ✅ **Cache Busting** - Implemented versioned CSS loading to ensure fresh updates
+- ✅ **GitHub Actions Workflow** - Added automated deployment workflow for GitHub Pages
+
+### December 2025
+- ✅ **Centered event cards** - Fixed alignment of meetup boxes in events section
+- ✅ **Centered YouTube buttons** - Improved layout of YouTube channel call-to-action buttons
+- ✅ **Fixed YouTube button structure** - Reorganized HTML for proper centering
+- ✅ **Updated YouTube channel URL** - Now using correct channel ID (UC0G20x3mVQwmqGUAig_MAcA)
+- ✅ **December events** - Updated events section with December schedule
+
+### November 2025
+- ✅ Added dedicated YouTube channel section
+- ✅ Updated all YouTube links to channel URL
+- ✅ Enhanced responsive design
+- ✅ Improved accessibility features
+- ✅ Optimized performance with WebP images
 <!--
 **TopG85/TopG85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
