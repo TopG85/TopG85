@@ -13,78 +13,7 @@ I'm currently working on.
 
 A modern, responsive church website for Vinelife Wilmslow - a community church in the heart of Wilmslow, Cheshire, UK.
 
-
-
 ## 🌟 Features
-
-### 📱 Responsive Design
-- Fully responsive design that works on desktop, tablet, and mobile devices
-- Modern CSS Grid and Flexbox layout
-- Bootstrap 5 integration for consistent styling
-
-### 🎨 Visual Design
-- **Grape-inspired color palette** with deep purples, greens, and complementary corals
-- **Elegant typography** using Crimson Text for headings and Open Sans for body text
-- **Parallax backgrounds** with gradient overlays for visual depth
-- **Smooth animations** and hover effects throughout
-
-### 📄 Website Sections
-
-#### 🏠 Hero Section
-- Welcome message with church mission
-- Call-to-action buttons
-- Social media links (Facebook & YouTube)
-- Stunning background imagery
-
-#### ℹ️ About Section
-- Comprehensive church history since 2000
-- Information about church planting and training
-- Community involvement and outreach programs
-- Details about Hope Central charity partnership
-
-#### 👥 Leaders Section
-- Meet Robert & Cheryl Larkman
-- Leadership background and vision
-- Professional photography
-- Personal story and community connection
-
-#### ⛪ Services Section
-- Sunday worship times (10:30 AM most Sundays)
-- Service location at The Open Arms Youth Project
-- Easy-to-find service information
-
-#### 📅 Events Section
-- Monthly event calendar with interactive cards
-- Event types: Coffee & Chat, Worship Meetings, Summer Recess
-- Location and timing details
-- Visual event categorization with icons
-
-#### 🎬 **YouTube Channel Section**
-- **Dedicated YouTube section** with channel branding and icon
-- **Direct links** to YouTube channel (UC0G20x3mVQwmqGUAig_MAcA)
-- **Feature highlights**: Live Services, Sermons, Events
-- **Centered Call-to-Action buttons**: "Visit Channel" and "Subscribe"
-- **Responsive design** - adapts to all screen sizes
-- **Animated YouTube icon** with hover effects
-
-#### 🔗 Resources Section
-- **CAP (Christians Against Poverty)** - Debt support services
-- **Alpha Course** - Faith exploration program
-- **Hope Central** - Local charity for food banks and community support
-- External links to partner organizations
-
-#### 📍 Find Us Section
-- **Interactive Google Maps** embed
-- **Complete address**: The Open Arms Youth Project, Howty Close, Wilmslow SK9 2SH
-- **Service times** and parking information
-- **Contact details** in an accessible format
-
-#### 📧 Contact Section
-- **Contact form** with validation
-- **Required fields**: Name, phone number, message
-- **Optional email** field with validation
-- **Form submission** with user feedback
-- **Social media links** (Facebook & YouTube)
 
 ## 📋 Recent Updates
 
