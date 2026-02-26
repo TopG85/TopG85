@@ -1,9 +1,5 @@
 Hello!! 👋🏻
 I'm a junior software developer. October 2025 I finished the Full Stack Development for AI Augmented Developer course with the Code Institute and recently got a pass grade. I'm actively pursuing a career in the tech industry. I am learning a range of methodologies, including coding languages such as 
-## Frontend
-HTML, CSS and Tailwind, JavaScript. 
-## Backend
-Python and Django.
 
 ## Project 
 
@@ -12,8 +8,6 @@ I'm currently working on.
 ## Vinelife Wilmslow
 
 A modern, responsive church website for Vinelife Wilmslow - a community church in the heart of Wilmslow, Cheshire, UK.
-
-## 🌟 Features
 
 ## 📋 Recent Updates
 
