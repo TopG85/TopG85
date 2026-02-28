@@ -9,7 +9,8 @@ I'm currently working on.
 
 A modern, responsive church website for Vinelife Wilmslow - a community church in the heart of Wilmslow, Cheshire, UK.
 
-https://github.com/TopG85/vinelifewilmslow
+Please see my README.md for Vinelife Church Wilmsolw
+https://github.com/TopG85/vinelifewilmslow/edit/main/README.md
 
 <!-- Here are some ideas to get you started:
 
