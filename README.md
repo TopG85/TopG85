@@ -7,7 +7,7 @@ I'm currently working on.
 
 ## Vinelife Wilmslow
 
-![vinelifechurchwilmslowwf (1).pdf
+![vinelifechurchwilmslow](github.com/TopG85/vinelifewilmslow)
 
 A modern, responsive church website for Vinelife Wilmslow - a community church in the heart of Wilmslow, Cheshire, UK.
 
