@@ -7,12 +7,12 @@ I'm currently working on.
 
 ## Vinelife Wilmslow
 
-![vinelifewilmslow](https://github.com/TopG85/vinelifewilmslow)
+
 
 A modern, responsive church website for Vinelife Wilmslow - a community church in the heart of Wilmslow, Cheshire, UK.
 
 Please see my README.md for Vinelife Church Wilmsolw
-https://github.com/TopG85/vinelifewilmslow/edit/main/README.md
+![vinelifewilmslow](https://github.com/TopG85/vinelifewilmslow/edit/main/README.md)
 
 <!-- Here are some ideas to get you started:
 
