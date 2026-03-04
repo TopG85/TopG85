@@ -18,7 +18,7 @@ A modern, responsive church website for Vinelife Wilmslow - a community church i
 - **Tinted hero images**: vinelifewilmslowhero.webp is black and white with a dark tint, ChatGPT image has a balanced dark tint for improved contrast
 
 ## Full Wireframe PDF
-- **Website wireframe (PDF):** [Vinelife Church Wilmslow Wireframe v1](README.md/vinelifechurchwilmslowwf.pdf)
+- **Website wireframe (PDF):** [Vinelife Church Wilmslow Wireframe v1](vinelifechurchwilmslowwf.pdf)
 - **Design note:** This wireframe supports the visual layout decisions documented in the Visual Design section.
 
 # ShutterSpace
