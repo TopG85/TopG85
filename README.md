@@ -8,13 +8,13 @@ I'm currently working on.
 ## Vinelife Wilmslow
 A modern, responsive church website for Vinelife Wilmslow - a community church in the heart of Wilmslow, Cheshire, UK.
 ### 🎨 Visual Design
-- **Grape-inspired color palette** with deep purples, greens, and complementary corals
-- **Elegant typography** using Crimson Text for headings and Open Sans for body text
+- **Grape-inspired color palette** with deep purples, greens, white and gold.
+- **Elegant typography** using font family: Lato, Montserrat and Playfair Display Arial Text for headings and san-serif, sans for body text
 - **Subtle text shadows** with consistent rgba opacity system for modern appearance
 - **Three-tier shadow hierarchy** - headings (0.5), subheadings (0.4), body text (0.3) opacity
 - **Smooth animations** and hover effects throughout
 - **Enhanced readability** with refined contrast and shadow optimization
-- **Hero image slideshow** alternates between two images every 15 seconds
+- **Hero image slideshow** alternates between two images every 20 seconds
 - **Tinted hero images**: vinelifewilmslowhero.webp is black and white with a dark tint, ChatGPT image has a balanced dark tint for improved contrast
 
 #### 🧩 Wireframe
