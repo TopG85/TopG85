@@ -18,7 +18,7 @@ A modern, responsive church website for Vinelife Wilmslow - a community church i
 - **Tinted hero images**: vinelifewilmslowhero.webp is black and white with a dark tint, ChatGPT image has a balanced dark tint for improved contrast
 
 ## Full Wireframe PDF
-- **Website wireframe (PDF):** ![Vinelife Church Wilmslow Wireframe v1](vinelifechurchwilmslowwf.pdf)
+- **Website wireframe (PDF):** [Vinelife Church Wilmslow Wireframe v1](main/vinelifechurchwilmslowwf.pdf)
 - **Design note:** This wireframe supports the visual layout decisions documented in the Visual Design section.
 
 # ShutterSpace
@@ -30,7 +30,7 @@ A sophisticated photography portfolio platform designed to bridge the gap in tod
 The photography community faces a significant challenge: **there is no dedicated rival to 500px**, and Instagram has strayed far from its original photography-focused roots. ShutterSpace addresses this market gap by providing photographers with a professional platform that prioritizes visual excellence and community engagement. Same Idea with colour not detracting from the photographs I wanted the images to be in digital frame and the ShutterSpace is the gallery for photographers and retouchers can showcase there work!
 
 ## Full Wireframe PDF 
-- **Website wireframe (PDF):** ![View complete wireframe document](shutterspacewireframe.pdf)
+- **Website wireframe (PDF):** [View complete wireframe document](main/shutterspacewireframe.pdf)
 
 <!-- Here are some ideas to get you started:
 
