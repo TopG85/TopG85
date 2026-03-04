@@ -6,13 +6,11 @@ I'm a junior software developer. October 2025 I finished the Full Stack Developm
 I'm currently working on.
 
 ## Vinelife Wilmslow
-
-
-
 A modern, responsive church website for Vinelife Wilmslow - a community church in the heart of Wilmslow, Cheshire, UK.
+#### 🧩 Wireframe
+- **Website wireframe (PDF):** [Vinelife Church Wilmslow Wireframe v1](docs/wireframes/vinelifechurchwilmslow-wireframe-v1.pdf)
+- **Design note:** This wireframe supports the visual layout decisions documented in the Visual Design section.
 
-Please see my README.md for Vinelife Church Wilmsolw
-![vinelifewilmslow](https://github.com/TopG85/vinelifewilmslow/edit/main/README.md)
 
 <!-- Here are some ideas to get you started:
 
