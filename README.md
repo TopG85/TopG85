@@ -17,7 +17,7 @@ A modern, responsive church website for Vinelife Wilmslow - a community church i
 - **Hero image slideshow** alternates between two images every 20 seconds
 - **Tinted hero images**: vinelifewilmslowhero.webp is black and white with a dark tint, ChatGPT image has a balanced dark tint for improved contrast
 
-#### 🧩 Wireframe
+## Full Wireframe PDF
 - **Website wireframe (PDF):** [Vinelife Church Wilmslow Wireframe v1](docs/wireframes/vinelifechurchwilmslowwf.pdf)
 - **Design note:** This wireframe supports the visual layout decisions documented in the Visual Design section.
 
@@ -27,15 +27,10 @@ A sophisticated photography portfolio platform designed to bridge the gap in tod
 
 ## Project Purpose & Market Need
 
-The photography community faces a significant challenge: **there is no dedicated rival to 500px**, and Instagram has strayed far from its original photography-focused roots. ShutterSpace addresses this market gap by providing photographers with a professional platform that prioritizes visual excellence and community engagement.
+The photography community faces a significant challenge: **there is no dedicated rival to 500px**, and Instagram has strayed far from its original photography-focused roots. ShutterSpace addresses this market gap by providing photographers with a professional platform that prioritizes visual excellence and community engagement. Same Idea with colour not detracting from the photographs I wanted the images to be in digital frame and the ShutterSpace is the gallery for photographers and retouchers can showcase there work!
 
-## Wireframes
-
-Same Idea with colour not detracting from the photographs I wanted the images to be in digital frame and the ShutterSpace is the gallery for photographers and retouchers can showcase there work!
-
-### Full Wireframe PDF
-
-[View complete wireframe document](docs/readme_images/shutterspacewireframe.pdf)
+### Full Wireframe PDF 
+- **Website wireframe (PDF):** [View complete wireframe document](docs/readme_images/shutterspacewireframe.pdf)
 
 <!-- Here are some ideas to get you started:
 
