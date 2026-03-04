@@ -5,7 +5,7 @@ I'm a junior software developer. October 2025 I finished the Full Stack Developm
 
 I'm currently working on.
 
-## Vinelife Wilmslow
+# Vinelife Wilmslow
 A modern, responsive church website for Vinelife Wilmslow - a community church in the heart of Wilmslow, Cheshire, UK.
 ### 🎨 Visual Design
 - **Grape-inspired color palette** with deep purples, greens, white and gold.
@@ -21,6 +21,21 @@ A modern, responsive church website for Vinelife Wilmslow - a community church i
 - **Website wireframe (PDF):** [Vinelife Church Wilmslow Wireframe v1](docs/wireframes/vinelifechurchwilmslow-wireframe-v1.pdf)
 - **Design note:** This wireframe supports the visual layout decisions documented in the Visual Design section.
 
+# ShutterSpace
+
+A sophisticated photography portfolio platform designed to bridge the gap in today's photography community landscape.
+
+## Project Purpose & Market Need
+
+The photography community faces a significant challenge: **there is no dedicated rival to 500px**, and Instagram has strayed far from its original photography-focused roots. ShutterSpace addresses this market gap by providing photographers with a professional platform that prioritizes visual excellence and community engagement.
+
+## Wireframes
+
+Same Idea with colour not detracting from the photographs I wanted the images to be in digital frame and the ShutterSpace is the gallery for photographers and retouchers can showcase there work!
+
+### Full Wireframe PDF
+
+[View complete wireframe document](docs/readme_images/shutterspacewireframe.pdf)
 
 <!-- Here are some ideas to get you started:
 
