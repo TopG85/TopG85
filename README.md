@@ -35,7 +35,7 @@ Same Idea with colour not detracting from the photographs I wanted the images to
 
 ### Full Wireframe PDF
 
-[View complete wireframe document](docs/readme_images/shutterspacewireframe.pdf)
+[ShutterSpace](docs/readme_images/shutterspacewireframe.pdf)
 
 <!-- Here are some ideas to get you started:
 
