@@ -29,7 +29,7 @@ A sophisticated photography portfolio platform designed to bridge the gap in tod
 
 The photography community faces a significant challenge: **there is no dedicated rival to 500px**, and Instagram has strayed far from its original photography-focused roots. ShutterSpace addresses this market gap by providing photographers with a professional platform that prioritizes visual excellence and community engagement. Same Idea with colour not detracting from the photographs I wanted the images to be in digital frame and the ShutterSpace is the gallery for photographers and retouchers can showcase there work!
 
-### Full Wireframe PDF 
+## Full Wireframe PDF 
 - **Website wireframe (PDF):** [View complete wireframe document](docs/readme_images/shutterspacewireframe.pdf)
 
 <!-- Here are some ideas to get you started:
