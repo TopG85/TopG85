@@ -44,7 +44,7 @@ A modern, responsive church website for Vinelife Wilmslow — a community church
 ###🎯 Design Inspiration
 #### Waitrose-Inspired Palette Gradient
 
-![Waitrose-inspired palette gradient](AdobeColorGradient gradient_Screenshot 2026-03-07 at 16 (1).png)
+![Vinelife Colour Palette](vinelife-colour-palette.png)
 This site takes visual inspiration from the Waitrose website, especially in the use of confident, clean color direction and palette-led styling.
 It also draws inspiration from the Society for the Protection of Unborn Children (SPUC) website, particularly its use of a consistent font family with varied weights (regular, semibold, bold) to create hierarchy and emphasis.
 A key influence was how strong, vibrant color is used to highlight important calls to action.
