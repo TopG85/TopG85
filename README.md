@@ -10,9 +10,9 @@ A sophisticated photography portfolio platform designed to bridge the gap in tod
 ## Project Purpose & Market Need
 The photography community faces a significant challenge: **there is no dedicated rival to 500px**, and Instagram has strayed far from its original photography-focused roots. ShutterSpace addresses this market gap by providing photographers with a professional platform that prioritizes visual excellence and community engagement.
 
-Live site https://django-project-shutterspace-a676bf7fbd5b.herokuapp.com/
-Github Repo https://github.com/TopG85/ShutterSpace/tree/main
-Wireframe [TopG85/README.md/shutterspace.png/main](https://github.com/TopG85/TopG85/blob/main/vinelifewilmslow.png)
+- Live site https://django-project-shutterspace-a676bf7fbd5b.herokuapp.com/
+= Github Repo https://github.com/TopG85/ShutterSpace/tree/main
+- wireframe [TopG85/README.md/shutterspace.png/main](https://github.com/TopG85/TopG85/blob/main/vinelifewilmslow.png)
 
 # Project I'm currently working on
 
@@ -29,8 +29,9 @@ A modern, responsive church website for Vinelife Wilmslow — a community church
 - **Hero image slideshow** alternates between two images every 20 seconds.
 - **Tinted hero images**: `vinelifewilmslowhero.webp` is black and white with a dark tint; the ChatGPT image has a balanced dark tint for improved contrast.
 
-Live site https://topg85.github.io/vinelifewilmslow/
-Github Repo https://github.com/TopG85/vinelifewilmslow
+- Live site https://topg85.github.io/vinelifewilmslow/
+- Github Repo https://github.com/TopG85/vinelifewilmslow
+- https://github.com/TopG85/TopG85/blob/main/shutterspace.png
 
 
 <!-- Here are some ideas to get you started:
