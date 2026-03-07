@@ -8,7 +8,11 @@ I'm a junior software developer. In October 2025 I completed the Full Stack Deve
 A sophisticated photography portfolio platform designed to bridge the gap in today's photography community landscape.
 
 ## Project Purpose & Market Need
-The photography community faces a significant challenge: **there is no dedicated rival to 500px**, and Instagram has strayed far from its original photography-focused roots. ShutterSpace addresses this market gap by providing photographers with a professional platform that prioritizes visual excellence and community engagement.
+The photography community faces a significant challenge: **there is no dedicated rival to 500px**, and Instagram has strayed far from its original photography-focused roots. 
+- ![500pxhomepage](500pxhomepage.png)
+- ![500px](500px.png)
+- ![instagram](instagram.png)
+ShutterSpace addresses this market gap by providing photographers with a professional platform that prioritizes visual excellence and community engagement.
 
 - Live site https://django-project-shutterspace-a676bf7fbd5b.herokuapp.com/
 - Github Repo https://github.com/TopG85/ShutterSpace/tree/main
