@@ -12,7 +12,7 @@ The photography community faces a significant challenge: **there is no dedicated
 
 Live site https://django-project-shutterspace-a676bf7fbd5b.herokuapp.com/
 Github Repo https://github.com/TopG85/ShutterSpace/tree/main
-Wireframe TopG85/README.md/shutterspace.png/main
+Wireframe [TopG85/README.md/shutterspace.png/main](https://github.com/TopG85/TopG85/blob/main/vinelifewilmslow.png)
 
 # Project I'm currently working on
 
