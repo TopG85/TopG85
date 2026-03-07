@@ -13,7 +13,7 @@ The photography community faces a significant challenge: **there is no dedicated
 Live site https://django-project-shutterspace-a676bf7fbd5b.herokuapp.com/
 Github Repo https://github.com/TopG85/ShutterSpace/tree/main
 
-## Project I'm currently working on
+# Project I'm currently working on
 
 # Vinelife Wilmslow
 A modern, responsive church website for Vinelife Wilmslow — a community church in the heart of Wilmslow, Cheshire, UK.
