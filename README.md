@@ -21,9 +21,11 @@ ShutterSpace addresses this market gap by providing photographers with a profess
 
 # Final colour palette 
 ![finalcolourpalette](front-end-colourpalette-final.jpeg)
-One fo the main reasons for changing the colours palette for this site, when a photograph is
-in a frame you don't want the colours to detract from the photography you want the users eyes to
-to draw to the image and so the image stands out, it's why photography frames in a gallery are black and white.
+
+One of the main reasons for changing the colour palette for this site comes from a principle used in photography. When a photograph is placed in a frame, the frame colours are usually neutral so they do not distract from the image. Instead, the viewer’s eye is drawn directly to the photograph, allowing it to stand out.
+
+This is why photo frames in galleries are typically black or white. Neutral colours support the image rather than competing with it. I applied the same idea to the website design: the colour palette is designed to complement the content and imagery, helping important elements stand out while keeping the overall design clean and focused.
+
 
 
 # Project I'm currently working on
