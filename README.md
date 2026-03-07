@@ -11,7 +11,7 @@ A sophisticated photography portfolio platform designed to bridge the gap in tod
 The photography community faces a significant challenge: **there is no dedicated rival to 500px**, and Instagram has strayed far from its original photography-focused roots. ShutterSpace addresses this market gap by providing photographers with a professional platform that prioritizes visual excellence and community engagement.
 
 - Live site https://django-project-shutterspace-a676bf7fbd5b.herokuapp.com/
-= Github Repo https://github.com/TopG85/ShutterSpace/tree/main
+- Github Repo https://github.com/TopG85/ShutterSpace/tree/main
 - ![Vinelife Wireframe](vinelifewilmslow.png)
 
 # Project I'm currently working on
