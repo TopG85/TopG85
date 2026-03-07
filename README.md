@@ -14,7 +14,7 @@ The photography community faces a significant challenge: **there is no dedicated
 - ![instagram](instagram.png)
 ShutterSpace addresses this market gap by providing photographers with a professional platform that prioritizes visual excellence and community engagement.
 
-- Live site (https://django-project-shutterspace-a676bf7fbd5b.herokuapp.com/portfolio/profile/danielcarson/)
+- Live site https://django-project-shutterspace-a676bf7fbd5b.herokuapp.com/portfolio/profile/danielcarson/
 - Github Repo https://github.com/TopG85/ShutterSpace/tree/main
 ### Wireframes  
 - ![ShutterSpace Wireframe](shutterspace.png)
