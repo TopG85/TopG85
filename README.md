@@ -12,7 +12,7 @@ The photography community faces a significant challenge: **there is no dedicated
 
 - Live site https://django-project-shutterspace-a676bf7fbd5b.herokuapp.com/
 = Github Repo https://github.com/TopG85/ShutterSpace/tree/main
-- wireframe [TopG85](vinelifewilmslow.png)
+- ![Vinelife Wireframe](vinelifewilmslow.png)
 
 # Project I'm currently working on
 
@@ -31,7 +31,7 @@ A modern, responsive church website for Vinelife Wilmslow — a community church
 
 - Live site https://topg85.github.io/vinelifewilmslow/
 - Github Repo https://github.com/TopG85/vinelifewilmslow
-- Wireframe[TopG85](shutterspace.png)
+- ![ShutterSpace Wireframe](shutterspace.png)
 
 
 <!-- Here are some ideas to get you started:
