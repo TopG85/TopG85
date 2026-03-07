@@ -2,6 +2,16 @@ Hello!! 👋🏻
 
 I'm a junior software developer. In October 2025 I completed the Full Stack Development for AI Augmented Developer course with the Code Institute, achieving a pass grade. I'm actively pursuing a career in the tech industry and continuing to learn a range of methodologies and coding languages.
 
+# Past Project 
+
+# ShutterSpace
+A sophisticated photography portfolio platform designed to bridge the gap in today's photography community landscape.
+
+## Project Purpose & Market Need
+The photography community faces a significant challenge: **there is no dedicated rival to 500px**, and Instagram has strayed far from its original photography-focused roots. ShutterSpace addresses this market gap by providing photographers with a professional platform that prioritizes visual excellence and community engagement.
+
+Live site https://django-project-shutterspace-a676bf7fbd5b.herokuapp.com/
+
 ## Project I'm currently working on
 
 # Vinelife Wilmslow
@@ -17,18 +27,9 @@ A modern, responsive church website for Vinelife Wilmslow — a community church
 - **Hero image slideshow** alternates between two images every 20 seconds.
 - **Tinted hero images**: `vinelifewilmslowhero.webp` is black and white with a dark tint; the ChatGPT image has a balanced dark tint for improved contrast.
 
-## Full Wireframe PDF
-- **Website wireframe (PDF):** [Vinelife Church Wilmslow Wireframe v1](wireframes/vinelifechurchwilmslowwf.pdf)
-- **Design note:** This wireframe supports the visual layout decisions documented in the Visual Design section.
+Live site -- https://topg85.github.io/vinelifewilmslow/
 
-# ShutterSpace
-A sophisticated photography portfolio platform designed to bridge the gap in today's photography community landscape.
 
-## Project Purpose & Market Need
-The photography community faces a significant challenge: **there is no dedicated rival to 500px**, and Instagram has strayed far from its original photography-focused roots. ShutterSpace addresses this market gap by providing photographers with a professional platform that prioritizes visual excellence and community engagement.
-
-## Full Wireframe PDF
-- **Website wireframe (PDF):** [View complete wireframe document](wireframes/shutterspacewireframe.pdf)
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
