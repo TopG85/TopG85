@@ -19,6 +19,12 @@ ShutterSpace addresses this market gap by providing photographers with a profess
 ### Wireframes  
 - ![ShutterSpace Wireframe](shutterspace.png)
 
+# Final colour palette 
+One fo the main reasons for changing the colours palette for this site, when a photograph is
+in a frame you don't want the colours to detract from the photography you want the users eyes to
+to draw to the image and so the image stands out, it's why photography frames in a gallery are black and white.
+
+
 # Project I'm currently working on
 
 # Vinelife Wilmslow
