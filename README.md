@@ -29,6 +29,12 @@ A modern, responsive church website for Vinelife Wilmslow — a community church
 - **Hero image slideshow** alternates between two images every 20 seconds.
 - **Tinted hero images**: `vinelifewilmslowhero.webp` is black and white with a dark tint; the ChatGPT image has a balanced dark tint for improved contrast.
 
+#### 🎯 Design Inspiration
+- This site takes visual inspiration from the **Waitrose** website, especially in the use of confident, clean color direction and palette-led styling.
+- It also draws inspiration from the **Society for the Protection of Unborn Children (SPUC)** website, particularly its use of a consistent font family with varied weights (regular, semibold, bold) to create hierarchy and emphasis.
+- A key influence was how strong, vibrant color is used to highlight important calls to action.
+- I also liked the amount of content available across the site experience, and that informed the decision to include a larger **Media Library** with additional Vinelife YouTube videos so visitors have more to choose from.
+
 - Live site https://topg85.github.io/vinelifewilmslow/
 - Github Repo https://github.com/TopG85/vinelifewilmslow
 - ![ShutterSpace Wireframe](shutterspace.png)
