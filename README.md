@@ -31,7 +31,7 @@ A modern, responsive church website for Vinelife Wilmslow — a community church
 
 - Live site https://topg85.github.io/vinelifewilmslow/
 - Github Repo https://github.com/TopG85/vinelifewilmslow
-- [TopG85](shutterspace.png)
+- Wireframe[TopG85](shutterspace.png)
 
 
 <!-- Here are some ideas to get you started:
