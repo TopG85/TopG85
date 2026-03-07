@@ -36,11 +36,7 @@ A modern, responsive church website for Vinelife Wilmslow — a community church
 - I also liked the amount of content available across the site experience, and that informed the decision to include a larger **Media Library** with additional Vinelife YouTube videos so visitors have more to choose from.
 
 - colour palette
-- /* Gradient in Hex */
-linear-gradient(to right, #C5D700 12.437810945273633%, 21.599836144641998%, #FFFFFF 35.90381426202322%, 42.95190713101161%, #F3F3F3 50%, 61.52570480928689%, #114734 70.8955223880597%, 82.91873963515755%, #54565A 91.37645107794361%);
 
-/* Gradient in RGBA */
-linear-gradient(to right, rgba(197, 215, 0, 1) 12.437810945273633%, 21.599836144641998%, rgba(255, 255, 255, 1) 35.90381426202322%, 42.95190713101161%, rgba(243, 243, 243, 1) 50%, 61.52570480928689%, rgba(17, 71, 52, 1) 70.8955223880597%, 82.91873963515755%, rgba(84, 86, 90, 1) 91.37645107794361%);
 
 
 - Live site https://topg85.github.io/vinelifewilmslow/
