@@ -2,7 +2,7 @@ Hello!! 👋🏻
 
 I'm a junior software developer. In October 2025 I completed the Full Stack Development for AI Augmented Developer course with the Code Institute, achieving a pass grade. I'm actively pursuing a career in the tech industry and continuing to learn a range of methodologies and coding languages.
 
-# Past Project 
+# Project 
 
 # ShutterSpace
 A sophisticated photography portfolio platform designed to bridge the gap in today's photography community landscape.
