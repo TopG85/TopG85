@@ -2,32 +2,6 @@ Hello!! 👋🏻
 
 I'm a junior software developer. In October 2025 I completed the Full Stack Development for AI Augmented Developer course with the Code Institute, achieving a pass grade. I'm actively pursuing a career in the tech industry and continuing to learn a range of methodologies and coding languages.
 
-# Project 
-
-# ShutterSpace
-A sophisticated photography portfolio platform designed to bridge the gap in today's photography community landscape.
-
-## Project Purpose & Market Need
-The photography community faces a significant challenge: **there is no dedicated rival to 500px**, and Instagram has strayed far from its original photography-focused roots. 
-- ![500pxhomepage](500pxhomepage.png)
-- ![500px](500px.png)
-- ![instagram](instagram.png)
-ShutterSpace addresses this market gap by providing photographers with a professional platform that prioritizes visual excellence and community engagement.
-
-- Live site https://django-project-shutterspace-a676bf7fbd5b.herokuapp.com/portfolio/profile/danielcarson/
-- Github Repo https://github.com/TopG85/ShutterSpace/tree/main
-### Wireframes  
-- ![ShutterSpace Wireframe](shutterspace.png)
-
-# Final colour palette 
-![finalcolourpalette](front-end-colourpalette-final.jpeg)
-
-One of the main reasons for changing the colour palette for this site comes from a principle used in photography. When a photograph is placed in a frame, the frame colours are usually neutral so they do not distract from the image. Instead, the viewer’s eye is drawn directly to the photograph, allowing it to stand out.
-
-This is why photo frames in galleries are typically black or white. Neutral colours support the image rather than competing with it. I applied the same idea to the website design: the colour palette is designed to complement the content and imagery, helping important elements stand out while keeping the overall design clean and focused.
-
-
-
 # Project I'm currently working on
 
 # Vinelife Wilmslow
