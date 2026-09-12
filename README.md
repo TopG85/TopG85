@@ -1,42 +1,4 @@
-Hello!! 👋🏻
 
-I'm a junior software developer. In October 2025 I completed the Full Stack Development for AI Augmented Developer course with the Code Institute, achieving a pass grade. I'm actively pursuing a career in the tech industry and continuing to learn a range of methodologies and coding languages.
-
-# Project I'm currently working on
-
-# Vinelife Wilmslow
-A modern, responsive church website for Vinelife Wilmslow — a community church in the heart of Wilmslow, Cheshire, UK.
-
-### 🎨 Visual Design
-- **Grape-inspired color palette** with deep purples, greens, white and gold.
-- **Elegant typography** using Lato, Montserrat and Playfair Display for headings, and sans-serif fonts for body text.
-- **Subtle text shadows** with a consistent rgba opacity system for a modern appearance.
-- **Three-tier shadow hierarchy** — headings (0.5), subheadings (0.4), body text (0.3) opacity.
-- **Smooth animations** and hover effects throughout.
-- **Enhanced readability** with refined contrast and shadow optimization.
-- **Hero image slideshow** alternates between two images every 20 seconds.
-- **Tinted hero images**: `vinelifewilmslowhero.webp` is black and white with a dark tint; the ChatGPT image has a balanced dark tint for improved contrast.
-
-
-
-
-
-
-
-
-- Live site https://topg85.github.io/vinelifewilmslow/
-- Github Repo https://github.com/TopG85/vinelifewilmslow
-### Wireframes
-- ![Vinelife Wireframe](vinelifewilmslow.png)
-###🎯 Design Inspiration
-#### Waitrose-Inspired Palette Gradient
-
-![Vinelife Colour Palette](vinelife-colour-palette.png)
-This site takes visual inspiration from the Waitrose website, especially in the use of confident, clean color direction and palette-led styling.
-It also draws inspiration from the Society for the Protection of Unborn Children (SPUC) website, particularly its use of a consistent font family with varied weights (regular, semibold, bold) to create hierarchy and emphasis.
-![Society for the Protection of Unborn Children website](spuc.png)
-A key influence was how strong, vibrant color is used to highlight important calls to action.
-I also liked the amount of content available across the site experience, and that informed the decision to include a larger Media Library with additional Vinelife YouTube videos so visitors have more to choose from.
 
 
 
