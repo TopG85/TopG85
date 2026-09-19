@@ -8,13 +8,13 @@ Dynamic Web Developer with a proven track record of moving projects from concept
 ## 🛠️ Technical Arsenal
 
 ### 💻 Frontend Suite
-[![HTML5](https://shields.io)](https://mozilla.org) [![CSS3](https://shields.io)](https://mozilla.org) [![JavaScript](https://shields.io)](https://mozilla.org) [![Tailwind CSS](https://shields.io)](https://tailwindcss.com) [![Bootstrap](https://shields.io)](https://getbootstrap.com)
+<a href="https://mozilla.org" target="_blank"><img src="https://githubusercontent.com" alt="HTML5" width="40" height="40" style="margin-right: 10px;" /></a> <a href="https://mozilla.org" target="_blank"><img src="https://githubusercontent.com" alt="CSS3" width="40" height="40" style="margin-right: 10px;" /></a> <a href="https://mozilla.org" target="_blank"><img src="https://githubusercontent.com" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" /></a> <a href="https://tailwindcss.com" target="_blank"><img src="https://githubusercontent.com" alt="Tailwind CSS" width="40" height="40" style="margin-right: 10px;" /></a> <a href="https://getbootstrap.com" target="_blank"><img src="https://githubusercontent.com" alt="Bootstrap" width="40" height="40" /></a>
 
 ### ⚙️ Backend & Databases
-[![Python](https://shields.io)](https://python.org) [![Django](https://shields.io)](https://djangoproject.com) [![Wagtail](https://shields.io)](https://wagtail.org) [![SQLite](https://shields.io)](https://sqlite.org)
+<a href="https://python.org" target="_blank"><img src="https://githubusercontent.com" alt="Python" width="40" height="40" style="margin-right: 10px;" /></a> <a href="https://djangoproject.com" target="_blank"><img src="https://githubusercontent.com" alt="Django" width="40" height="40" style="margin-right: 10px;" /></a> <a href="https://wagtail.org" target="_blank"><img src="https://githubusercontent.com" alt="Wagtail" width="40" height="40" style="margin-right: 10px;" /></a> <a href="https://sqlite.org" target="_blank"><img src="https://githubusercontent.com" alt="SQLite" width="40" height="40" /></a>
 
 ### 🚀 Cloud, Deployment & Tools
-[![Git](https://shields.io)](https://git-scm.com) [![GitHub](https://shields.io)](https://github.com) [![Heroku](https://shields.io)](https://heroku.com) [![Cloudinary](https://shields.io)](https://cloudinary.com)
+<a href="https://git-scm.com" target="_blank"><img src="https://githubusercontent.com" alt="Git" width="40" height="40" style="margin-right: 10px;" /></a> <a href="https://github.com" target="_blank"><img src="https://githubusercontent.com" alt="GitHub" width="40" height="40" style="margin-right: 10px;" /></a> <a href="https://heroku.com" target="_blank"><img src="https://githubusercontent.com" alt="Heroku" width="40" height="40" style="margin-right: 10px;" /></a> <a href="https://cloudinary.com" target="_blank"><img src="https://svgshare.com" alt="Cloudinary" width="40" height="40" /></a>
 
 ---
 
@@ -39,6 +39,7 @@ Dynamic Web Developer with a proven track record of moving projects from concept
 
 ## 🤝 Connect and Collaborate
 
-[![LinkedIn](https://shields.io)](https://linkedin.com) [![Portfolio](https://shields.io)](https://github.com)
+*   **LinkedIn:** [Connect on LinkedIn](https://linkedin.com)
+*   **Portfolio Studio:** [Carson Web Studio Repository](https://github.com)
 
 *“Accelerating development velocity without compromising on code quality, security, or architectural stability.”*
