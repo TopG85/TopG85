@@ -1,10 +1,6 @@
 # 👨‍💻 Daniel Carson | Full Stack Web Developer
 ### 📍 Manchester / Wilmslow, UK
 
-<p align="center">
-  <img src="https://vercel.app" width="100%" />
-</p>
-
 Dynamic Web Developer with a proven track record of moving projects from concept to live deployment, including engineering a bespoke CMS solution for a live commercial client. Combining a background in creative problem-solving with advanced training from Code Institute's AI-Augmented Full-Stack Developer program, I build responsive, API-driven web applications using Django, Wagtail, and Tailwind CSS. Recognised for leveraging AI tooling to accelerate development velocity, optimise code quality, and deliver high-uptime digital products.
 
 ---
@@ -12,13 +8,13 @@ Dynamic Web Developer with a proven track record of moving projects from concept
 ## 🛠️ Technical Arsenal
 
 ### 💻 Frontend Suite
-![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![Tailwind CSS](https://shields.io) ![Bootstrap](https://shields.io)
+<a href="https://mozilla.org" target="_blank"><img src="https://shields.io" alt="HTML5" /></a> <a href="https://mozilla.org" target="_blank"><img src="https://shields.io" alt="CSS3" /></a> <a href="https://mozilla.org" target="_blank"><img src="https://shields.io" alt="JavaScript" /></a> <a href="https://tailwindcss.com" target="_blank"><img src="https://shields.io" alt="Tailwind CSS" /></a> <a href="https://getbootstrap.com" target="_blank"><img src="https://shields.io" alt="Bootstrap" /></a>
 
 ### ⚙️ Backend & Databases
-![Python](https://shields.io) ![Django](https://shields.io) ![Wagtail](https://shields.io) ![SQLite](https://shields.io)
+<a href="https://python.org" target="_blank"><img src="https://shields.io" alt="Python" /></a> <a href="https://djangoproject.com" target="_blank"><img src="https://shields.io" alt="Django" /></a> <a href="https://wagtail.org" target="_blank"><img src="https://shields.io" alt="Wagtail" /></a> <a href="https://sqlite.org" target="_blank"><img src="https://shields.io" alt="SQLite" /></a>
 
 ### 🚀 Cloud, Deployment & Tools
-![Git](https://shields.io) ![GitHub](https://shields.io) ![Heroku](https://shields.io) ![Cloudinary](https://shields.io)
+<a href="https://git-scm.com" target="_blank"><img src="https://shields.io" alt="Git" /></a> <a href="https://github.com" target="_blank"><img src="https://shields.io" alt="GitHub" /></a> <a href="https://heroku.com" target="_blank"><img src="https://shields.io" alt="Heroku" /></a> <a href="https://cloudinary.com" target="_blank"><img src="https://shields.io" alt="Cloudinary" /></a>
 
 ---
 
@@ -43,6 +39,7 @@ Dynamic Web Developer with a proven track record of moving projects from concept
 
 ## 🤝 Connect and Collaborate
 
-[![LinkedIn](https://shields.io)](https://linkedin.com) [![Portfolio](https://shields.io)](https://github.com)
+<a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn" /></a> <a href="https://github.com" target="_blank"><img src="https://shields.io" alt="Portfolio" /></a>
 
 *“Accelerating development velocity without compromising on code quality, security, or architectural stability.”*
+
