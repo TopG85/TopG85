@@ -8,13 +8,13 @@ Dynamic Web Developer with a proven track record of moving projects from concept
 ## 🛠️ Technical Arsenal
 
 ### 💻 Frontend Suite
-<a href="https://mozilla.org" target="_blank"><img src="https://shields.io" alt="HTML5" /></a> <a href="https://mozilla.org" target="_blank"><img src="https://shields.io" alt="CSS3" /></a> <a href="https://mozilla.org" target="_blank"><img src="https://shields.io" alt="JavaScript" /></a> <a href="https://tailwindcss.com" target="_blank"><img src="https://shields.io" alt="Tailwind CSS" /></a> <a href="https://getbootstrap.com" target="_blank"><img src="https://shields.io" alt="Bootstrap" /></a>
+[![HTML5](https://shields.io)](https://mozilla.org) [![CSS3](https://shields.io)](https://mozilla.org) [![JavaScript](https://shields.io)](https://mozilla.org) [![Tailwind CSS](https://shields.io)](https://tailwindcss.com) [![Bootstrap](https://shields.io)](https://getbootstrap.com)
 
 ### ⚙️ Backend & Databases
-<a href="https://python.org" target="_blank"><img src="https://shields.io" alt="Python" /></a> <a href="https://djangoproject.com" target="_blank"><img src="https://shields.io" alt="Django" /></a> <a href="https://wagtail.org" target="_blank"><img src="https://shields.io" alt="Wagtail" /></a> <a href="https://sqlite.org" target="_blank"><img src="https://shields.io" alt="SQLite" /></a>
+[![Python](https://shields.io)](https://python.org) [![Django](https://shields.io)](https://djangoproject.com) [![Wagtail](https://shields.io)](https://wagtail.org) [![SQLite](https://shields.io)](https://sqlite.org)
 
 ### 🚀 Cloud, Deployment & Tools
-<a href="https://git-scm.com" target="_blank"><img src="https://shields.io" alt="Git" /></a> <a href="https://github.com" target="_blank"><img src="https://shields.io" alt="GitHub" /></a> <a href="https://heroku.com" target="_blank"><img src="https://shields.io" alt="Heroku" /></a> <a href="https://cloudinary.com" target="_blank"><img src="https://shields.io" alt="Cloudinary" /></a>
+[![Git](https://shields.io)](https://git-scm.com) [![GitHub](https://shields.io)](https://github.com) [![Heroku](https://shields.io)](https://heroku.com) [![Cloudinary](https://shields.io)](https://cloudinary.com)
 
 ---
 
@@ -39,7 +39,6 @@ Dynamic Web Developer with a proven track record of moving projects from concept
 
 ## 🤝 Connect and Collaborate
 
-<a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn" /></a> <a href="https://github.com" target="_blank"><img src="https://shields.io" alt="Portfolio" /></a>
+[![LinkedIn](https://shields.io)](https://linkedin.com) [![Portfolio](https://shields.io)](https://github.com)
 
 *“Accelerating development velocity without compromising on code quality, security, or architectural stability.”*
-
