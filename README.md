@@ -59,12 +59,12 @@ Dynamic Web Developer with a proven track record of moving projects from concept
 ### 📊 Multi-Select Carb Counter & Insulin Tracker (Live App)
 * **Tech Stack:** HTML5 Canvas, JavaScript, React Native Workspace, Expo Framework (SDK 57)
 * **Core Engineering:** Engineered an advanced multi-select meal plate basket allowing parallel asset tracking, combined total carb summation, and a persistent state cache logbook.
-* [🔗 View Live Web Application](https://topg_85.github.io/carb-counter-app/) | [📁 View Source Code Repository](https://github.com)
+* [🔗 View Live Web Application](https://topg85.github.io/carb-counter-app/) | [📁 View Source Code Repository](https://github.com)
 
 ### 🍷 Vinelife Wilmslow — Client Website (Live Production)
 * **Tech Stack:** HTML5, Tailwind CSS, JavaScript, Wagtail CMS database routing pipelines
 * **Core Engineering:** Custom engineered a robust, standalone corporate CMS solution to eliminate ongoing developer dependency. Seamlessly integrated Google Calendar APIs to automate client event pipelines.
-* [🔗 View Production Hub](https://github.com)
+* [🔗 View Production Hub](https://vinelifewilmslow.com)
 
 ### 📸 ShutterSpace — Photography Portfolio Platform
 * **Tech Stack:** Python, Django, Cloudinary Media Engines, Heroku cloud infrastructure
