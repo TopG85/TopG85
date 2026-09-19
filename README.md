@@ -64,7 +64,7 @@ Dynamic Web Developer with a proven track record of moving projects from concept
 ### 🍷 Vinelife Wilmslow — Client Website (Live Production)
 * **Tech Stack:** HTML5, Tailwind CSS, JavaScript, Wagtail CMS database routing pipelines
 * **Core Engineering:** Custom engineered a robust, standalone corporate CMS solution to eliminate ongoing developer dependency. Seamlessly integrated Google Calendar APIs to automate client event pipelines.
-* [🔗 View Production Hub](https://vinelifewilmslow.com)
+* [🔗 View Production Hub](https://www.vinelifewilmslow.com/)
 
 ### 📸 ShutterSpace — Photography Portfolio Platform
 * **Tech Stack:** Python, Django, Cloudinary Media Engines, Heroku cloud infrastructure
