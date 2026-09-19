@@ -8,13 +8,49 @@ Dynamic Web Developer with a proven track record of moving projects from concept
 ## 🛠️ Technical Arsenal
 
 ### 💻 Frontend Suite
-<a href="https://mozilla.org" target="_blank"><img src="https://githubusercontent.com" alt="HTML5" width="40" height="40" style="margin-right: 10px;" /></a> <a href="https://mozilla.org" target="_blank"><img src="https://githubusercontent.com" alt="CSS3" width="40" height="40" style="margin-right: 10px;" /></a> <a href="https://mozilla.org" target="_blank"><img src="https://githubusercontent.com" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" /></a> <a href="https://tailwindcss.com" target="_blank"><img src="https://githubusercontent.com" alt="Tailwind CSS" width="40" height="40" style="margin-right: 10px;" /></a> <a href="https://getbootstrap.com" target="_blank"><img src="https://githubusercontent.com" alt="Bootstrap" width="40" height="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" height="40" />
+</a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" width="40" height="40" />
+</a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40" />
+</a>&nbsp;
+<a href="https://tailwindcss.com/">
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="40" height="40" />
+</a>&nbsp;
+<a href="https://getbootstrap.com/">
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" width="40" height="40" />
+</a>
 
 ### ⚙️ Backend & Databases
-<a href="https://python.org" target="_blank"><img src="https://githubusercontent.com" alt="Python" width="40" height="40" style="margin-right: 10px;" /></a> <a href="https://djangoproject.com" target="_blank"><img src="https://githubusercontent.com" alt="Django" width="40" height="40" style="margin-right: 10px;" /></a> <a href="https://wagtail.org" target="_blank"><img src="https://githubusercontent.com" alt="Wagtail" width="40" height="40" style="margin-right: 10px;" /></a> <a href="https://sqlite.org" target="_blank"><img src="https://githubusercontent.com" alt="SQLite" width="40" height="40" /></a>
+<a href="https://www.python.org/">
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40" />
+</a>&nbsp;
+<a href="https://www.djangoproject.com/">
+  <img src="https://cdn.simpleicons.org/django/44B78B" alt="Django" width="40" height="40" />
+</a>&nbsp;
+<a href="https://wagtail.org/">
+  <img src="https://cdn.simpleicons.org/wagtail/43B1B0" alt="Wagtail" width="40" height="40" />
+</a>&nbsp;
+<a href="https://www.sqlite.org/">
+  <img src="https://cdn.simpleicons.org/sqlite/3A86C6" alt="SQLite" width="40" height="40" />
+</a>
 
 ### 🚀 Cloud, Deployment & Tools
-<a href="https://git-scm.com" target="_blank"><img src="https://githubusercontent.com" alt="Git" width="40" height="40" style="margin-right: 10px;" /></a> <a href="https://github.com" target="_blank"><img src="https://githubusercontent.com" alt="GitHub" width="40" height="40" style="margin-right: 10px;" /></a> <a href="https://heroku.com" target="_blank"><img src="https://githubusercontent.com" alt="Heroku" width="40" height="40" style="margin-right: 10px;" /></a> <a href="https://cloudinary.com" target="_blank"><img src="https://svgshare.com" alt="Cloudinary" width="40" height="40" /></a>
+<a href="https://git-scm.com/">
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40" />
+</a>&nbsp;
+<a href="https://github.com/">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="40" height="40" />
+</a>&nbsp;
+<a href="https://www.heroku.com/">
+  <img src="./assets/heroku-logo.png" alt="Heroku" width="36" height="40" />
+</a>&nbsp;
+<a href="https://cloudinary.com/">
+  <img src="https://cdn.simpleicons.org/cloudinary/3448C5" alt="Cloudinary" width="40" height="40" />
+</a>
 
 ---
 
