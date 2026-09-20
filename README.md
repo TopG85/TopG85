@@ -69,13 +69,13 @@ Dynamic Web Developer with a proven track record of moving projects from concept
 ### 📸 ShutterSpace — Photography Portfolio Platform
 * **Tech Stack:** Python, Django, Cloudinary Media Engines, Heroku cloud infrastructure
 * **Core Engineering:** Configured asynchronous third-party media processing engines to handle automatic image optimisation and scaling across deep back-end data architectures.
-* [📁 View Source Code Repository](https://github.com)
+* [🔗 View Live Website](https://django-project-shutterspace-a676bf7fbd5b.herokuapp.com/) [📁 View Source Code Repository](https://github.com/TopG85/ShutterSpace)
 
 ---
 
 ## 🤝 Connect and Collaborate
 
-*   **LinkedIn:** [Connect on LinkedIn](https://linkedin.com)
-*   **Portfolio Studio:** [Carson Web Studio Repository](https://github.com)
+*   **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/danielcarson85/)
+*   **Portfolio Studio:** [Carson Web Studio Repository](https://topg85.github.io/Carson-Web-Studio/index.html)
 
 *“Accelerating development velocity without compromising on code quality, security, or architectural stability.”*
