@@ -10,10 +10,10 @@ Dynamic Web Developer with a proven track record of moving projects from concept
 ### 💻 Frontend Suite
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" height="40" />
-</a>&nbsp;
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
   <img src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" width="40" height="40" />
-</a>&nbsp;
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40" />
 </a>&nbsp;
