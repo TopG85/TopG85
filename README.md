@@ -9,17 +9,17 @@ Dynamic Web Developer with a proven track record of moving projects from concept
 
 ### 💻 Frontend Suite
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" height="40"
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" width="40" height="40"
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40" />
-</a>&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40"
+</a>
 <a href="https://tailwindcss.com/">
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="40" height="40" />
-</a>&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="40" height="40"
+</a>
 <a href="https://getbootstrap.com/">
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" width="40" height="40" />
 </a>
@@ -27,7 +27,7 @@ Dynamic Web Developer with a proven track record of moving projects from concept
 ### ⚙️ Backend & Databases
 <a href="https://www.python.org/">
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40" />
-</a>&nbsp;
+</a>
 <a href="https://www.djangoproject.com/">
   <img src="https://cdn.simpleicons.org/django/44B78B" alt="Django" width="40" height="40" />
 </a>&nbsp;
