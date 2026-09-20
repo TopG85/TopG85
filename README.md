@@ -49,7 +49,7 @@ Dynamic Web Developer with a proven track record of moving projects from concept
   <img src="./Heroku-Logo-Mark-Light-RGB.png" alt="Heroku" width="36" height="40"
 </a>
 <a href="https://cloudinary.com/">
-  <img src="https://cdn.simpleicons.org/cloudinary/" alt="Cloudinary" width="40" height="40" 
+  <img src="https://cdn.simpleicons.org/cloudinary/3448C5" alt="Cloudinary" width="40" height="40" 
 </a>
 
 ---
