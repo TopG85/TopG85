@@ -21,35 +21,35 @@ Dynamic Web Developer with a proven track record of moving projects from concept
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="40" height="40"
 </a>
 <a href="https://getbootstrap.com/">
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" width="40" height="40" 
 </a>
 
 ### ⚙️ Backend & Databases
 <a href="https://www.python.org/">
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40"
 </a>
 <a href="https://www.djangoproject.com/">
-  <img src="https://cdn.simpleicons.org/django/44B78B" alt="Django" width="40" height="40" />
-</a>&nbsp;
+  <img src="https://cdn.simpleicons.org/django/44B78B" alt="Django" width="40" height="40"
+</a>
 <a href="https://wagtail.org/">
-  <img src="https://cdn.simpleicons.org/wagtail/43B1B0" alt="Wagtail" width="40" height="40" />
-</a>&nbsp;
+  <img src="https://cdn.simpleicons.org/wagtail/43B1B0" alt="Wagtail" width="40" height="40"
+</a>
 <a href="https://www.sqlite.org/">
-  <img src="https://cdn.simpleicons.org/sqlite/3A86C6" alt="SQLite" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/sqlite/3A86C6" alt="SQLite" width="40" height="40" 
 </a>
 
 ### 🚀 Cloud, Deployment & Tools
 <a href="https://git-scm.com/">
-  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40" />
-</a>&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40"
+</a>
 <a href="https://github.com/">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="40" height="40" />
-</a>&nbsp;
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="40" height="40" 
+</a>
 <a href="https://www.heroku.com/">
-  <img src="./Heroku-Logo-Mark-Light-RGB.png" alt="Heroku" width="36" height="40" />
-</a>&nbsp;
+  <img src="./Heroku-Logo-Mark-Light-RGB.png" alt="Heroku" width="36" height="40"
+</a>
 <a href="https://cloudinary.com/">
-  <img src="https://cdn.simpleicons.org/cloudinary/3448C5" alt="Cloudinary" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/cloudinary/" alt="Cloudinary" width="40" height="40" 
 </a>
 
 ---
