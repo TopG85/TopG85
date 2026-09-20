@@ -76,6 +76,5 @@ Dynamic Web Developer with a proven track record of moving projects from concept
 ## 🤝 Connect and Collaborate
 
 *   **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/danielcarson85/)
-*   **Portfolio Studio:** [Carson Web Studio Repository](https://topg85.github.io/Carson-Web-Studio/index.html)
 
 *“Accelerating development velocity without compromising on code quality, security, or architectural stability.”*
