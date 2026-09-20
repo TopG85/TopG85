@@ -38,7 +38,7 @@ Dynamic Web Developer with a proven track record of moving projects from concept
   <img src="https://cdn.simpleicons.org/sqlite/3A86C6" alt="SQLite" width="40" height="40" 
 </a>
 
-### 🚀 Cloud, Deployment & Tools
+### 🚀 Cloud Deployment & Tools
 <a href="https://git-scm.com/">
   <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40"
 </a>
