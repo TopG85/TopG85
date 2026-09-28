@@ -3,7 +3,7 @@
 
 Dynamic Web Developer with a proven track record of moving projects from concept to live deployment, including engineering a bespoke CMS solution for a live commercial client. Combining a background in creative problem-solving with advanced training from Code Institute's AI-Augmented Full-Stack Developer program, I build responsive, API-driven web applications using Django, Wagtail, and Tailwind CSS. Recognised for leveraging AI tooling to accelerate development velocity, optimise code quality, and deliver high-uptime digital products.
 
-[🔗 Live Website](https://www.carsonwebstudio.co.uk/) 
+[🔗 My Website](https://www.carsonwebstudio.co.uk/) 
 
 ---
 
